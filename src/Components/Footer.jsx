@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
         {/* Bottom Footer */}
         <div className='flex justify-between mt-4'>
-            <div className='mr-5'><h6>این سایت توسط پرهام پورخانی ساخته شده است </h6>
+            <div className='mr-5'><h6>| Developed By : Pourya Pourkhani |</h6>
             </div>
             <div>
                 <ul  className='flex items-center gap-1 '>
